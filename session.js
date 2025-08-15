@@ -1,8 +1,8 @@
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
-//                                   𝗤𝗨𝗘𝗘𝗡-𝗔𝗡𝗝𝗨 𝗫ᴾᴿᴼ 𝐁𝐎𝐓                                               //
+//                                   PIWIYA_MDᴾᴿᴼ 𝐁𝐎𝐓                                               //
 //                                                                                                      //
-//                                         Ｖ：4.0                                                       //
+//                                         Ｖ：1.0                                                       //
 //
 //
 //░██████╗░██╗░░░██╗███████╗███████╗███╗░░██╗  ░█████╗░███╗░░██╗░░░░░██╗██╗░░░██╗  ██╗░░██╗██████╗░██████╗░░█████╗░
@@ -16,20 +16,20 @@
 //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ
+//  * @project_name : © PIWIYA_MD
 //  * @version      : 4.0
-//  * @author       : Janith Rashmika
+//  * @author       : Piwithuru_prakash
 //  * @youtube      : https://www.youtube.com/@gamingrash2006
-//  * @description  : © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ, A Multi-functional WhatsApp bot created by Janith Rashmika.
+//  * @description  : © PIWIYA_MD, A Multi-functional WhatsApp bot created by Piwithru_prakash.
 //*
 //*
-//Base by Janith Rashmika
-//GitHub: @Mrrashmika
-//WhatsApp: +94717775628
-//Want more free bot scripts? Subscribe to my YouTube channel: https://youtube.com/@gamingrash2006
-//   * Created By GitHub: Mrrashmika
-//   * Credit To Janith Rashmika
-//   * © 2025 © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ-V4.
+//Base by Piwithuru_prakash
+//GitHub: @Mr_piwithuru
+//WhatsApp: +94773060753
+//Want more free bot scripts? Subscribe to my YouTube channel: https://youtube.com/@imjerry
+//   * Created By GitHub: piwithuru_mD
+//   * Credit To Piwithuru_prakash
+//   * © 2025 PIWIYA_MD_v1.
 // ⛥┌┤
 // */
 
