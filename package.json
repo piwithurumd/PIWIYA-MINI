@@ -1,12 +1,12 @@
 {
-  "name": "Queen_Anju",
+  "name": "PIWIYA_MD",
   "version": "4",
-  "description": "A Simple WhatsApp bot created By King-Rashmika",
-  "main": "queen.js",
+  "description": "A Simple WhatsApp bot created By KING-PIWITHURU",
+  "main": "piwiya.js",
   "scripts": {
-    "start": "pm2 start queen.js --deep-monitoring --attach --name Queen_Anju",
-    "stop": "pm2 stop Queen_Anju",
-    "restart": "pm2 restart Queen_Anju"
+    "start": "pm2 start queen.js --deep-monitoring --attach --name PIWIYA_MD",
+    "stop": "pm2 stop PIWIYA_MD",
+    "restart": "pm2 restart PIWIYA_MD"
   },
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
