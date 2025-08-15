@@ -91,7 +91,7 @@ async function connectToWA() {
   const getPrefix = () => config.PREFIX;
   const getWelcome = () => config.WELCOME;
   //===========================
-  console.log("🔥 QUEEN ANJU XPRO is starting...");
+  console.log("🔥 PIWIYA-MD is starting...");
   const { state, saveCreds } = await useMultiFileAuthState(
     __dirname + "/sessions/"
   );
@@ -119,9 +119,9 @@ async function connectToWA() {
       console.log("connected to whatsapp ✅");
       // Assuming `config` contains all the settings
       let up = `
-          🚀 **© 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ 💚 Connected Successfully!** ✅ 
+          🚀 **© PIWIYA_MD 💚 Connected Successfully!** ✅ 
           
-          --- **🎉 Welcome to © 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ 💚!** 🎉 
+          --- **🎉 Welcome to PIWIYA_MD 💚!** 🎉 
           ✦» 𝚅𝚎𝚛𝚜𝚒𝚘𝚗 : ${require("./package.json").version}
           ✦» 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖 : ${os.platform()}
           ✦» 𝙷𝚘𝚜𝚝 : ${os.hostname()}
@@ -150,7 +150,7 @@ async function connectToWA() {
             config.AUTORECORDING ? "Enabled" : "Disabled"
           }
       
-          --- Thank you for using **© 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ 💚**. 
+          --- Thank you for using ** PIWIYA_MD 💚**. 
           We're here to make your experience enjoyable and seamless. 
           If you need any help or have questions, don't hesitate to ask. 
           
@@ -165,12 +165,12 @@ async function connectToWA() {
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: "120363299978149557@newsletter",
-            newsletterName: "© 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ 💚",
+            newsletterName: "PIWIYA_MD 💚",
             serverMessageId: 999,
           },
           externalAdReply: {
             title: "© 𝚀𝚄𝙴𝙴𝙽 𝙰𝙽𝙹𝚄 𝗑ᴾᴿᴼ 💚",
-            body: " ©𝐌𝐑 𝐑𝐀𝐒𝐇𝐌𝐈𝐊𝐀 𝐎𝐅𝐂 💚",
+            body: " ©𝐌𝐑 PIWITHURU 𝐎𝐅𝐂 💚",
             mediaType: 1,
             sourceUrl: "https://github.com/Mrrashmika",
             thumbnailUrl:
@@ -401,7 +401,7 @@ async function connectToWA() {
 }
 if (!app) return;
 app.get("/", (req, res) => {
-  res.send("hey I am alive, Queen_Anju Is started✅");
+  res.send("hey I am alive, PIWIYA_MD Is started✅");
 });
 app.listen(port, () =>
   console.log(`Server listening on port http://localhost:${port}`)
